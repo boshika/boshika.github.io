@@ -10,4 +10,4 @@ I am into all things engineering...
 
 ### Contact me
 
-[email@domain.com](mailto:boshikatara@gmail.com)
+[boshikatara@gmail.com](mailto:boshikatara@gmail.com)
