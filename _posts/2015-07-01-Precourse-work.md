@@ -27,6 +27,6 @@ content:
 }<br>
 </p>
 
-<p>Firebase also has a Dashboard, which makes for a nice visual in th way data is represnted. To acess the child node you just reference it witht he parent node, very similar to the DOM API. I really like the idea of data storage in the form of trees, this elimiantes the whole need for tables and the tedious SQL queries, my only issue would be when you have lots of data and the nodes and sub nodes increase, but I am guessing you can create seperate JSON objects, and link them in some way to avoid a unmanageable tree</p>
+<p>Firebase also has a Dashboard, which makes for a nice visual in the way data is represented. To access the child node you just reference it with the parent node, very similar to the DOM API. I really like the idea of data storage in the form of trees, this eliminates the need for tables and the tedious SQL queries, my only issue would be when you have lots of data and the nodes and sub nodes increase, but I am guessing you can create seperate JSON objects, and link them in some way to avoid a unmanageable tree</p>
    
 
