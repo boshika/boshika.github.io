@@ -7,7 +7,6 @@ content:
 <!--![Image description](/images/config.png)-->
   
   <article class = post>
-   
     <p>Yesterday, I received access to all the prep work to HR, and it is a LOT of stuff. The prep work is structured from Low to High complexity. Starting from basic JS to recursion.</p>
     <p>I feel like I need to come up with a solid schedule, since all the prep work has deadlines, and they are Mandatory</p>
     <h3>Plan of attack!</h3>
