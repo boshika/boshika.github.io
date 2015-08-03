@@ -28,9 +28,9 @@ content:
 	<h3>Fibonacci Example</h3>
 	<script src="https://gist.github.com/boshika/de97725a64bdd3ff436f.js"></script>
 	<p>...and a lot of blahh...blahhh..Towers of Hanoi...blah...blah...This is what I learnt</p>
-	<h4>Here is what i learnt while completing the HR Recursion prep work</h4>
+	<h4>Here is what I learnt while completing the HR Recursion prep work</h4>
 	<p>
-	 <strong>recursion is calling a function on itself.</strong>
+	 <strong>Recursion is calling a function on itself.</strong>
 	 key features of recursion are: base case: this is a statement, usually within a conditional clause like if, that stops the recursion. If you don't have a base case, the recursion will go on infinitely and your program will crash. Crash = bad.
 	</p>
 	<p>
