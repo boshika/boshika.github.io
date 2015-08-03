@@ -21,13 +21,7 @@ content:
 </p>
 <p>
   Arguments object within JavaScript, is a local variable that is availbale within all functions. This is really useful when you need to access functions original arguments for some further manupulation. Say you have these objects { x: 'x' }, { a: 'a', x: 2 }, { a: 1 }, and a function called myfunc. You pass these objects as arguments to myobj function()</p>
-<p>var myobj = function(obj) {<br>
-   for(var i=0; i<arguments.length; i++) 
-   {
-   console.log(arguments[i]);<br>
-   }
-  }
-</p>
+<p><script src="https://gist.github.com/boshika/0d99be851e6a52fc32dd.js"></script></p>
 <p>myobj({ x: 'x' }, { a: 'a', x: 2 }, { a: 1 })<br>
   Result:<br>
    Object {x: "x"} <br>
