@@ -3,11 +3,11 @@ layout: post
 title: Hack Reactor pre-course prep lessons learnt--Lesson 1
 content: 
 ---
-<!DOCTYPE html>
+<!--<!DOCTYPE html>-->
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Pre-course lessons learnt-Lesson 1</title>
+	<title>Pre-course lessons learnt</title>
 </head>
 <body>
 <h3>Finished HR pre-course prep!!!!!!</h3>
@@ -21,7 +21,12 @@ content:
 </p>
 <p>
   Arguments object within JavaScript, is a local variable that is availbale within all functions. This is really useful when you need to access functions original arguments for some further manupulation. Say you have these objects { x: 'x' }, { a: 'a', x: 2 }, { a: 1 }, and a function called myfunc. You pass these objects as arguments to myobj function()</p>
-<p>var myobj = function(obj) {for(var i=0; i<arguments.length; i++) {console.log(arguments[i]);}}</p>
+<p>var myobj = function(obj) {<br>
+   for(var i=0; i<arguments.length; i++) {<br>
+   console.log(arguments[i]);<br>
+   }<br>
+  }
+</p>
 <p>myobj({ x: 'x' }, { a: 'a', x: 2 }, { a: 1 })<br>
   Result:<br>
    Object {x: "x"} <br>
