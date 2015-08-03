@@ -5,7 +5,6 @@ content:
 ---
 
 <!-- <!DOCTYPE html> -->
-
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
@@ -25,7 +24,6 @@ content:
 			<li>a numerically correct result</li>
 			<li>Leads aay from stopping case</li>
 		</ul>
-	  </li>
 	</ul>
 	<h3>Fibonacci Example</h3>
 	<script src="https://gist.github.com/boshika/de97725a64bdd3ff436f.js"></script>
