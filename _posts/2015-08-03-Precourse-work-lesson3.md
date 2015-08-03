@@ -19,11 +19,12 @@ content:
 	<ul>
 	  <li>A general case expressed in terms of a simpler version of itself</li>
 	  <li>A stopping case--trivial, non-recursive</li>
-	  <li>Application of the general case leading to a stopping case e.g. 5!= 6!/6</li>
+	  <li>Application of the general case leading to a stopping case e.g. 5!= 6!/6
 		<ul>
 			<li>a numerically correct result</li>
 			<li>Leads aay from stopping case</li>
 		</ul>
+	  </li>
 	</ul>
 	<h3>Fibonacci Example</h3>
 	<script src="https://gist.github.com/boshika/de97725a64bdd3ff436f.js"></script>
