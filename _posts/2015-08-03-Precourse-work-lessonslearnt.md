@@ -31,13 +31,7 @@ content:
 <p>As you can see from the above example, all you do is use arguments[0], arguments[1]...and so on to access the inside objects. arguments object stores the original arguments passed in a function in an array like object, which acts similar to an array, where each argumment is stored at an index starting at index 0</p>
 <p>One important thing to note is that arguments object is NOT an array, it does behave like an array when it comes to indexing the function arguments, and can also return the arguments length, but this is where the similarities end...you cannot push/pop/shift/unshift using arguments object...</p>
 <p>This is where Array.prototype.slice.call() comes in handy, you can use this to convert these arguments objects into proper arrays</p>
-<p>var myobj = function(obj)<br>
-  {for(var i=0; i<arguments.length; i++)<br>
-  {<br>
-  console.log(arguments[i]);<br>
-  }<br>
-  var myArr = Array.prototype.slice.call(arguments, 0);<br>
-  console.log(myArr);}<br>
+<p><script src="https://gist.github.com/boshika/9d2b58ba19c35c1be0f2.js"></script>
 </p>
 <p> 
   This will return a prototype array of the arguments which looks like this [Object, Object, Object], and along with it a list of all array methods that can be used on the prototype.
