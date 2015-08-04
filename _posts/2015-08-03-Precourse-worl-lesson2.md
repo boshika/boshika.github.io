@@ -18,7 +18,7 @@ tags:
   <p>
    One of the other assignments we had in the pre course work was to build a Twitter clone, which displayed user tweets, in reverse chronological order, and we were also asked to display single user tweets. Here is what I created</p>
    ![_config.yml]({{ site.baseurl }}/images/TwittlerMain.png)
-   ![_config.yml]({{ site.baseurl }}/images/TwitterMain.png)
+   ![_config.yml]({{ site.baseurl }}/images/TwitterUser.png)
    
   </p>
   <p>
