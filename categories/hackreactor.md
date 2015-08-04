@@ -10,7 +10,7 @@ permalink: /categories/hackreactor/
 <div class="home">
   <ul class="post-list">
 		{% for post in site.posts %}
-	    {% if post.tags contains 'sxsw' %}
+	    {% if post.tags contains 'hack reactor' %}
 				<li onclick="location.href='{{ post.url | prepend: site.baseurl }}'">
           <h2>
             <a class="post-link" >{{ post.title }}</a>
