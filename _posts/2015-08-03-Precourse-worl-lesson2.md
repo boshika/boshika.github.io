@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Hack Reactor pre-course prep lessons learnt--Lesson 2
-content: 
+category: article
+tags:
+-hack reactor
+-coding
 ---
 
 <!-- <!DOCTYPE html> -->
