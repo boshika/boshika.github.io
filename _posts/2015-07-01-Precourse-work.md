@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Hack Reactor pre course prep and my first Hackathon
-content: 
+category: article
+tags:
+ - hack reactor
+ - coding
 ---
 
 <!--![Image description](/images/config.png)-->
