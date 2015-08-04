@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hack Reactor pre-course prep lessons learnt--Lesson 1
+category: article
 tags:
 - hack reactor
 - coding
