@@ -41,7 +41,7 @@ google_analytics:
 
 # http://boshika.github.io/
 # Used for Sitemap.xml and your RSS feed
-url:
+url:http://boshika.github.io/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
@@ -53,9 +53,12 @@ baseurl: ""
 # !! You don't need to change any of the configuration flags below !!
 #
 
-markdown: redcarpet
+markdown: kramdown
 highlighter: pygments
 permalink: /:categories/:title/
+
+paginate: 10
+paginate_path: "/archive/page:num/"
 
 # The release of Jekyll Now that you're using
 version: v1.1.0
