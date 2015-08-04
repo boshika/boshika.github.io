@@ -3,8 +3,8 @@ layout: post
 title: Hack Reactor pre-course prep lessons learnt--Lesson 2
 category: article
 tags:
--hack reactor
--coding
+ - hack reactor
+ - coding
 ---
 
 <!-- <!DOCTYPE html> -->
