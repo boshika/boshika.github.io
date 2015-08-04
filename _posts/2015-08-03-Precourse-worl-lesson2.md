@@ -17,7 +17,8 @@ tags:
   <h4>Lesson 2: HTML/CSS/JQUERY-way too much to learn</h4>
   <p>
    One of the other assignments we had in the pre course work was to build a Twitter clone, which displayed user tweets, in reverse chronological order, and we were also asked to display single user tweets. Here is what I created</p>
-   <img src="boshika.github.io/images/TwitterMain.png">
+   ![_config.yml]({{ site.baseurl }}/images/TwittlerMain.png)
+   ![_config.yml]({{ site.baseurl }}/images/TwitterMain.png)
    
   </p>
   <p>
