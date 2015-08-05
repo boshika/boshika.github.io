@@ -38,10 +38,11 @@ tags:
 	<h4>Here is what I learnt while completing the HR Recursion prep work</h4>
 	<p>
 	 <strong>Recursion is calling a function on itself.</strong>
-	 key features of recursion are: base case: this is a statement, usually within a conditional clause like if, that stops the recursion. If you don't have a base case, the recursion will go on infinitely and your program will crash. Crash = bad.
-	</p>
-	<p>
-	 The second is a recursive case: this is the statement where the recursion actually happens: where the recursive function is called on itself.
+	 Key features of recursion are: 
+	 <ul>
+	   <li>base case: this is a statement, usually within a conditional clause like if, that stops the recursion. If you don't have a base case, the recursion will go on infinitely and your program will crash. Crash = bad.</li>
+	   <li>The second is a recursive case: this is the statement where the recursion actually happens: where the recursive function is called on itself.</li>
+	 </ul>
 	</p>
 	<script src="https://gist.github.com/boshika/b333c2b517e12724fb19.js"></script>
 	<h5>Fibonaccir Beanstalk</h5>
@@ -54,7 +55,7 @@ tags:
 	 This was from the Codeacademy Recursion tutorial...half-way point through the course, and I understood more about recursion then I did in my entire graduate class
 	</p>
 	<p>
-	 Moral of the story---if something can be explained in simpler terms, explain it in simpler terms...it is not <strong>important</strong> that you understand the technical jargon, it is more iportant to understand the idea behind it!
+	 Moral of the story---if something can be explained in simpler terms, explain it in simpler terms...it is not <strong>important</strong> that you understand the technical jargon, it is <strong>more important</strong> to understand the idea behind it!
 	</p>
 </body>
 </html>
