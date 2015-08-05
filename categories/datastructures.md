@@ -1,5 +1,5 @@
 ---
-title: hack reactor
+title: datastructures
 layout: default
 category: categories
 permalink: /categories/datastructures/
