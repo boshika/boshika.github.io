@@ -7,6 +7,7 @@ tags:
  - coding
  - challenges
  - archives
+ - datastructures
 ---
 
 <!-- <!DOCTYPE html> -->
