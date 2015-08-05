@@ -7,6 +7,7 @@ tags:
  - coding
  - challenges
  - archives
+ - javascript
 ---
 
 <!-- <!DOCTYPE html> -->
