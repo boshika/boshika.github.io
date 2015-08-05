@@ -2,7 +2,7 @@
 title: 2015
 layout: default
 category: categories
-permalink: /categories/2015/
+permalink: /categories/archives/
 ---
 
 <h1 class="page-heading">Category: {{ page.title | upcase}}</h1>
@@ -10,7 +10,7 @@ permalink: /categories/2015/
 <div class="home">
   <ul class="post-list">
 		{% for post in site.posts %}
-	    {% if post.tags contains '2015' %}
+	    {% if post.tags contains 'archives' %}
 				<li onclick="location.href='{{ post.url | prepend: site.baseurl }}'">
           <h2>
             <a class="post-link" >{{ post.title }}</a>
