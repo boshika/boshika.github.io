@@ -14,6 +14,7 @@ layout: page
 <a href="./hackreactor" class="category">Hack Reactor</a><br>
 <a href="./coding" class="category">CODING</a><br>
 <a href="./challenges" class="category">CHALLENGES</a><br>
+<a href="./javascript" class="category">JavaScript</a><br>
 <a href="./sanfrancisco" class="category">SAN FRANCISCO</a><br>
 <a href="./archives" class="category">2015 ARCHIVE</a>
 
