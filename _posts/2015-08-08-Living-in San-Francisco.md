@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Nine years in SF
-category: article
+title: Nine years in San Francisco
+category: 
 tags:
  - San Francisco
 ---
