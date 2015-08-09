@@ -1,11 +1,11 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html> -->
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
 	<title>Nine years in San Francisco</title>
 </head>
 <body>
-  <h2>Nine years and counting</h2>
+  <h2>Nine years and counting...</h2>
   <p>Last July, we completed our ninth year of living in San Francisco, though I didn't live in SF for all those nine years, there was the year and half in South America, a year back in India, and the various travels--so roughly I have lived in SF for about six years..</p>
   <p>Having lived here for so long, I feel like I get a little nervous when I have to venture in the burbs; today we drove to Calistoga(Napa Valley), for my husband's cricket match, and I hated it...though my husband did pretty well, made 89 runs, and got a really expensive bottle of wine for being the MVP, I spent my afternoons, with are little one strolling the downtown Calistoga...and I hated it...have I said that enough, I could not wait to get back to the city</p>
   <h3>I am a city bum--do NOT take me to the wildrness</h3>
