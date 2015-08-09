@@ -4,9 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am into all things engineering...
-
-
+<p>I am all about re-invention...currently entering another Kafka-esque metamorphosis, and this blog is and all entries will be a log of this change.</p>
 
 ### Contact me
 
