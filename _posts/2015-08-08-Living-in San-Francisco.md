@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hack Reactor pre course prep and my first Hackathon
+title: Nine years in SF
 category: article
 tags:
  - San Francisco
@@ -10,8 +10,8 @@ tags:
 <!-- <!DOCTYPE html> -->
 <html lang="en">
 <head>
-	<meta charset="UTF-8">
-	<title>Nine years in San Francisco</title>
+<meta charset="UTF-8">
+<title>Nine years in San Francisco</title>
 </head>
 <body>
   <h2>Nine years and counting...</h2>
