@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Nine years in San Francisco
+title: Hack Reactor pre course prep and my first Hackathon
 category: article
 tags:
-- San Francisco
- ---
+ - San Francisco
+---
 
 
 <!-- <!DOCTYPE html> -->
