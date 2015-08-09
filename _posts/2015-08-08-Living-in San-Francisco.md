@@ -3,7 +3,7 @@ layout: post
 title: Nine years in San Francisco
 category: article
 tags:
- - San Francisco
+- San Francisco
  ---
 
 
