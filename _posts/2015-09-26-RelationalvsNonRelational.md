@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Relational vd Non-relational Database
+title: Relational vs Non-relational Database
 category: article
 tags:
 - hack reactor
@@ -15,8 +15,8 @@ in Tables, with rows and columns.A schema can contain many
 tables, that can be inter-connected to for relational schema.
 Non-relational data, on the other hand, is grouped together in 
 chunks. Non-relational data is often stored as Collections, like
-in documents, key-value pairs. 
-Data-the nature of the data, and it's usage will determine the choice
+in documents, key-value pairs. Data-the nature of the data, and it's 
+usage will determine the choice
 of Schema.
 </p>
 
