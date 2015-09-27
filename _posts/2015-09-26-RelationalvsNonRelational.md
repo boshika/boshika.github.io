@@ -57,6 +57,6 @@ Isolated | Durable ) properties.The goal is to support isolated indivisible tran
 two priorities per the CAP (Consistency | Availability | Partition Tolerance )
  theorem, since all three are difficult to achieve in a distributed node-based system.
 
-Relational vd Non-Relational: Both have pros and cons, and the right architecture depends on the requirements of the applications 
+Relational vs Non-Relational: Both have pros and cons, and the right architecture depends on the requirements of the applications 
 you build. Good 'ol SQL can seem fullfill all the requirements you have, choose NoSQL options when you are nearing the fringe 
 limitations of relational databases and the vastness of your data handling or scale of operations simply demands a more distributed system.
