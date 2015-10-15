@@ -3,7 +3,6 @@ layout: post
 title: Hack Reactor pre-course prep lessons learnt--Lesson 3
 category: article
 tags:
- - hack reactor
  - coding
  - challenges
  - archives
