@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hack Reactor pre-course prep lessons learnt--Lesson 3
+title: Power of BLAST
 category: article
 tags:
  - coding
