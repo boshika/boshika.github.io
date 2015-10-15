@@ -18,7 +18,7 @@ tags:
 <body>
 	<h4>POWER OF BLAST</h4>
 	<p>
-	Couple years back a Stanford, doing bench research involved running datasets, on heavy Bioinformatics tools, 
+	Couple years back at Stanford, doing bench research for me involved running datasets, on heavy Bioinformatics tools, 
 	BLAST(Basic Local Alignment Search Tool), was what I used almost on daily basis, from DNA sequence alignment, 
 	to protein sequence analysis. In genomic research, these tools become second nature, I used them without 
 	really understanding the underlying principles of such computational tools, and this sought a bugged me.
