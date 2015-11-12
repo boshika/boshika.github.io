@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Graph Theory
+title: Elegance of Python
 category: article
 tags:
  - coding
@@ -15,7 +15,7 @@ tags:
 <body>
 <h1>Do you see?</h1>
 <h3>Read the code below</h3>
-{% gist dc6e62eb34f98d6ca09d#file-spilt-py %}
+<script src="https://gist.github.com/boshika/dc6e62eb34f98d6ca09d.js"></script>
 <p></p>
 </body>
 </html>
