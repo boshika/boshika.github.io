@@ -15,7 +15,10 @@ layout: page
 <a href="./coding" class="category">CODING</a><br>
 <a href="./challenges" class="category">CHALLENGES</a><br>
 <a href="./javascript" class="category">JavaScript</a><br>
+<a href="./python" class="category">2015 Python</a>
 <a href="./datastructures" class="category">Data Structures and Algorithms</a><br>
+<a href="./data" class="category">Data</a>
+<a href="./ml" class="category">Machine Learning</a>
 <a href="./sanfrancisco" class="category">SAN FRANCISCO</a><br>
 <a href="./archives" class="category">2015 ARCHIVE</a>
 
